@@ -1,4 +1,6 @@
-- 👋 Olá, Eu sou o @PedroVaillant
+<div align="center" style="display: inline_block">
+
+# 👋 Olá, Eu sou o @PedroVaillant
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -13,3 +15,4 @@
 PedroVaillant/PedroVaillant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+</div>
