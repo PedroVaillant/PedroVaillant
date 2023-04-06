@@ -1,9 +1,6 @@
 <div align="center" style="display: inline_block">
 
 # 👋 Olá, Eu sou o Pedro
-## bla
-
-## 
 ---
 
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
